@@ -30,7 +30,7 @@ void main() async {
     secondRowIter..moveNext()..moveNext();
     var host = secondRowIter.current.text.substring(1);
 
-    var uid = (game + runners + category + host).hashCode;
+    var uid = (game + runners + category).hashCode;
     var endTime = startTime.add(duration);
 
     print("BEGIN:VEVENT");
