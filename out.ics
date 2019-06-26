@@ -454,7 +454,7 @@ BEGIN:VEVENT
 UID:728521265@gamesdonequick.com
 DTSTAMP:20190626T013500Z
 DTSTART:20190626T013500Z
-DTEND:20190626T021800Z
+DTEND:20190626T020319Z
 SUMMARY:Deltarune
 DESCRIPTION:True Pacifist Ending Race — PC by Cookiepocalypse, Shayy - hosted by Skybilz
 END:VEVENT
@@ -1035,12 +1035,12 @@ SUMMARY:SpongeBob SquarePants: Battle for Bikini Bottom
 DESCRIPTION:Any% — Xbox by SHiFT - hosted by SakuraTsubasa
 END:VEVENT
 BEGIN:VEVENT
-UID:688761418@gamesdonequick.com
+UID:413340274@gamesdonequick.com
 DTSTAMP:20190629T100200Z
 DTSTART:20190629T100200Z
 DTEND:20190629T105200Z
 SUMMARY:Bomberman 64: The Second Attack
-DESCRIPTION:Any% — N64 by LivelyRaccoon - hosted by Prolix
+DESCRIPTION:Any% — N64 by LivelyRaccoon - hosted by SamWithoutAPlan
 END:VEVENT
 BEGIN:VEVENT
 UID:531343450@gamesdonequick.com
